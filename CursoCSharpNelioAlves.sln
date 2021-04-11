@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composicao1", "Composicao1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composicao2", "Composicao2\Composicao2.csproj", "{0C2D5561-746E-437F-A615-054179706DF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.csproj", "{D93FBBE1-E472-452A-BB6F-875D4C4065B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0C2D5561-746E-437F-A615-054179706DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C2D5561-746E-437F-A615-054179706DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C2D5561-746E-437F-A615-054179706DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D93FBBE1-E472-452A-BB6F-875D4C4065B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93FBBE1-E472-452A-BB6F-875D4C4065B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93FBBE1-E472-452A-BB6F-875D4C4065B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93FBBE1-E472-452A-BB6F-875D4C4065B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
