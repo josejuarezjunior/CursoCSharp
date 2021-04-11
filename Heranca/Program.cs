@@ -1,7 +1,7 @@
 ﻿using System;
 using Heranca.Entities;
 
-namespace Inheritance
+namespace Heranca
 {
     class Program
     {

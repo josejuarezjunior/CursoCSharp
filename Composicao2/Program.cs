@@ -3,7 +3,7 @@ using System.Globalization;
 using Composicao2.Entities;
 using Composicao2.Entities.Enums;
 
-namespace Aula_123
+namespace Composicao2
 {
     class Program
     {

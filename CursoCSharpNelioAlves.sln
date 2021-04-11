@@ -29,7 +29,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesAbstratas", "Classes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesEMetodosAbstratos", "ClassesEMetodosAbstratos\ClassesEMetodosAbstratos.csproj", "{8B0CE370-8149-4237-9C75-2EF9AAB51414}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcecoesPersonalizadas", "..\backup\ExcecoesPersonalizadas\Course\ExcecoesPersonalizadas.csproj", "{EFEB1B3E-C5E8-4012-9BED-505C0902E128}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcecoesPersonalizadas", "ExcecoesPersonalizadas\ExcecoesPersonalizadas.csproj", "{8F3F552E-E82D-4D9C-89CC-B9DA5A178172}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -89,10 +89,10 @@ Global
 		{8B0CE370-8149-4237-9C75-2EF9AAB51414}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B0CE370-8149-4237-9C75-2EF9AAB51414}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B0CE370-8149-4237-9C75-2EF9AAB51414}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EFEB1B3E-C5E8-4012-9BED-505C0902E128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EFEB1B3E-C5E8-4012-9BED-505C0902E128}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EFEB1B3E-C5E8-4012-9BED-505C0902E128}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EFEB1B3E-C5E8-4012-9BED-505C0902E128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F3F552E-E82D-4D9C-89CC-B9DA5A178172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3F552E-E82D-4D9C-89CC-B9DA5A178172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3F552E-E82D-4D9C-89CC-B9DA5A178172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3F552E-E82D-4D9C-89CC-B9DA5A178172}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
