@@ -8,6 +8,8 @@ namespace ExcecoesPersonalizadas
     {
         static void Main(string[] args)
         {
+            //Exceções Personalizadas - Aulas 143, 144 e 145.
+
             //O bloco "try" faz uma tentativa de executar o programa.
             try
             {
