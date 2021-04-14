@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesEMetodosAbstratos", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcecoesPersonalizadas", "ExcecoesPersonalizadas\ExcecoesPersonalizadas.csproj", "{8F3F552E-E82D-4D9C-89CC-B9DA5A178172}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excessoes", "Excessoes\Excessoes.csproj", "{AD9A167F-CC7F-479F-8D90-C5757268D10C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{8F3F552E-E82D-4D9C-89CC-B9DA5A178172}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F3F552E-E82D-4D9C-89CC-B9DA5A178172}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F3F552E-E82D-4D9C-89CC-B9DA5A178172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD9A167F-CC7F-479F-8D90-C5757268D10C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9A167F-CC7F-479F-8D90-C5757268D10C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9A167F-CC7F-479F-8D90-C5757268D10C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9A167F-CC7F-479F-8D90-C5757268D10C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
