@@ -6,6 +6,7 @@ namespace UsingBlock
     {
         static void Main(string[] args)
         {
+            //Aula 188
             string path = @"c:\temp\file1.txt";
             try
             {
