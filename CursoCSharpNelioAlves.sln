@@ -55,7 +55,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulamento_AutoProperti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulamento_Propriedades", "Encapsulamento_Propriedades\Encapsulamento_Propriedades.csproj", "{DDE80E29-4F74-4155-9BCB-3E5C64164545}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerdarXCumprirContrato", "HerdarXCumprirContrato\HerdarXCumprirContrato.csproj", "{52352EAE-4F81-441B-B2FA-789D3DD37EDC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerancaMultipla", "HerancaMultipla\HerancaMultipla.csproj", "{D61E19A9-43AD-4685-83A9-BC1B345A717C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces2", "Interfaces2\Interfaces2.csproj", "{52352EAE-4F81-441B-B2FA-789D3DD37EDC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -167,6 +169,10 @@ Global
 		{DDE80E29-4F74-4155-9BCB-3E5C64164545}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDE80E29-4F74-4155-9BCB-3E5C64164545}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDE80E29-4F74-4155-9BCB-3E5C64164545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61E19A9-43AD-4685-83A9-BC1B345A717C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61E19A9-43AD-4685-83A9-BC1B345A717C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61E19A9-43AD-4685-83A9-BC1B345A717C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61E19A9-43AD-4685-83A9-BC1B345A717C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{52352EAE-4F81-441B-B2FA-789D3DD37EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{52352EAE-4F81-441B-B2FA-789D3DD37EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52352EAE-4F81-441B-B2FA-789D3DD37EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
