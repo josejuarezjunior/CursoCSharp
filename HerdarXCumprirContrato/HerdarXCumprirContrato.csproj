@@ -43,10 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\Entities\AbstractShape.cs" />
+    <Compile Include="Model\Entities\IShape.cs" />
     <Compile Include="Model\Enums\Color.cs" />
     <Compile Include="Model\Entities\Circle.cs" />
     <Compile Include="Model\Entities\Rectangle.cs" />
-    <Compile Include="Model\Entities\Shape.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
