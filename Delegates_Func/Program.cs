@@ -57,9 +57,6 @@ namespace Delegates_Func
                 Console.WriteLine(s);
             }
 
-            //-------------------
-            //-------------------
-            //-------------------
             Console.WriteLine();
             //Versão 3 - Utilizando expressão Lambda
             Console.WriteLine("------------------------Versão 3---------------------------");
