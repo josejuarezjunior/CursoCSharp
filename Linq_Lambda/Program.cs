@@ -132,7 +132,6 @@ namespace Linq_Lambda
             * Essa operação filtra os produtos com Id = 1.
             * Após isso é feita a soma dos preços desses
             * produtos, com o comando Sum.
-            * ****Verificar no visual studio*****
             */
             var r12 = products.Where(p => p.Category.Id == 1).Sum(p => p.Price);
             Console.WriteLine("Category 1 Sum prices: " + r12);
@@ -141,7 +140,6 @@ namespace Linq_Lambda
             * Essa operação filtra os produtos com Id = 1.
             * Após isso é calculada a média dos preços desses
             * produtos, com o comando Average.
-            * ****Verificar no visual studio*****
             */
             var r13 = products.Where(p => p.Category.Id == 1).Average(p => p.Price);
             Console.WriteLine("Category 1 Average prices: " + r13);
