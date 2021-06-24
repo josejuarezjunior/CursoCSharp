@@ -22,7 +22,7 @@ namespace Linq_Lambda
         {
             Category c1 = new Category() { Id = 1, Name = "Tools", Tier = 2 };
             Category c2 = new Category() { Id = 2, Name = "Computers", Tier = 1 };
-            Category c3 = new Category() { Id = 1, Name = "Eletronics", Tier = 1 };
+            Category c3 = new Category() { Id = 3, Name = "Eletronics", Tier = 1 };
 
             List<Product> products = new List<Product>()
             {
